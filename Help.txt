@@ -1,9 +1,0 @@
-Installation
-Just, Clone this repository -
-
-Now go to cloned directory and run OneOzero.sh
-
-$ cd OneOzero Phishing Tools
-$ chmod +x OneOzero.sh
-$ bash OneOzero.sh
-On first launch, It'll install the dependencies and it. OneOzero is installed.
